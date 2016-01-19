@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+   <channel>
+      <title>Zarautz, Weather Conditions</title>
+      <link>http://eguraldia.zokormazo.info</link>
+      <description>Current conditions, and daily, monthly, and yearly summaries</description>
+      <language>en-us</language>
+      <pubDate>ar., 19 urt 2016 15:45:00 CET</pubDate>
+
+      <lastBuildDate>ar., 19 urt 2016 15:45:00 CET</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>weewx 3.2.1</generator>
+      <ttl>5,000000 minutes</ttl>
+      
+      <item>
+         <title>Weather Conditions at ar., 2016.eko urtren 19a 15:45:00</title>
+         <link>http://eguraldia.zokormazo.info</link>
+         <description>
+           Outside temperature: 14,3&#176;C; 
+           Barometer: 1016,0 mbar; 
+           Wind: 0,0 m/s from    N/A; 
+           Rain rate: 0,0 mm/hr; 
+           Inside temperature: 18,9&#176;C
+         </description>
+         <pubDate>ar., 19 urt 2016 15:45:00 CET</pubDate>
+	     <geo:lat>43.284216</geo:lat>
+    	 <geo:long>-2.176117</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Time:                ar., 2016.eko urtren 19a 15:45:00<br/>
+             Outside Temperature: 14,3&#176;C<br/>
+             Inside Temperature:  18,9&#176;C<br/>
+             Wind Chill:          14,3&#176;C<br/>
+             Heat Index:          14,3&#176;C<br/>
+             Dewpoint:            5,1&#176;C<br/>
+             Humidity:            54%<br/>
+             Barometer:           1016,0 mbar<br/>
+             Wind:                0,0 m/s from    N/A<br/>
+             Rain Rate:           0,0 mm/hr<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Daily Weather Summary as of ar., 2016.eko urtren 19a 15:45:00</title>
+         <link>http://eguraldia.zokormazo.info</link>
+         <description>
+	        Min outside temperature: 10,0&#176;C at 01:27:27;
+         	Max outside temperature: 14,7&#176;C at 14:56:36;
+	        Min inside temperature:  18,2&#176;C at 06:51:48;
+	        Max inside temperature:  19,0&#176;C at 14:36:47;
+	        Min barometer:           1015,0 mbar at 00:05:00;
+	        Max barometer:           1017,0 mbar at 10:05:00;
+            Max wind :               0,0 m/s from    N/A at 00:00:45;
+            Rain today:              2,0 mm
+         </description>
+         <pubDate>ar., 19 urt 2016 15:45:00 CET</pubDate>
+	     <geo:lat>43.284216</geo:lat>
+    	 <geo:long>-2.176117</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Day:                     19 urt 2016<br/>
+	         Min Outside Temperature: 10,0&#176;C at 01:27:27<br/>
+	         Max Outside Temperature: 14,7&#176;C at 14:56:36<br/>
+	         Min Inside Temperature:  18,2&#176;C at 06:51:48<br/>
+	         Max Inside Temperature:  19,0&#176;C at 14:36:47<br/>
+	         Min Barometer:           1015,0 mbar at 00:05:00<br/>
+	         Max Barometer:           1017,0 mbar at 10:05:00<br/>
+             Max Wind :               0,0 m/s from    N/A at 00:00:45<br/>
+             Rain today:              2,0 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Monthly Weather Summary as of ar., 2016.eko urtren 19a 15:45:00</title>
+         <link>http://eguraldia.zokormazo.info/month.html</link>
+         <description>
+	        Min outside temperature: 6,0&#176;C at az., 2016.eko urtren 13a 08:37:50;
+         	Max outside temperature: 19,4&#176;C at or., 2016.eko urtren 08a 04:01:21;
+	        Min inside temperature:  15,7&#176;C at ar., 2016.eko urtren 12a 18:37:53;
+	        Max inside temperature:  22,1&#176;C at or., 2016.eko urtren 01a 00:03:27;
+	        Min barometer:           992,0 mbar at ig., 2016.eko urtren 10a 22:30:00;
+	        Max barometer:           1034,0 mbar at lr., 2016.eko urtren 16a 10:35:00;
+            Max wind :               0,0 m/s from    N/A at or., 2016.eko urtren 01a 00:00:23;
+            Rain total for month:    118,9 mm
+         </description>
+         <pubDate>ar., 19 urt 2016 15:45:00 CET</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Month:                   urtarrila 2016<br/>
+	         Max Outside Temperature: 19,4&#176;C at or., 2016.eko urtren 08a 04:01:21<br/>
+	         Min Outside Temperature: 6,0&#176;C at az., 2016.eko urtren 13a 08:37:50<br/>
+	         Max Inside Temperature:  22,1&#176;C at or., 2016.eko urtren 01a 00:03:27<br/>
+	         Min Inside Temperature:  15,7&#176;C at ar., 2016.eko urtren 12a 18:37:53<br/>
+	         Min Barometer:           992,0 mbar at ig., 2016.eko urtren 10a 22:30:00<br/>
+	         Max Barometer:           1034,0 mbar at lr., 2016.eko urtren 16a 10:35:00<br/>
+             Max Wind :               0,0 m/s from    N/A at or., 2016.eko urtren 01a 00:00:23<br/>
+             Rain total for month:    118,9 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Yearly Weather Summary as of ar., 2016.eko urtren 19a 15:45:00</title>
+         <link>http://eguraldia.zokormazo.info/year.html</link>
+         <description>
+	        Min outside temperature: 6,0&#176;C at az., 2016.eko urtren 13a 08:37:50;
+         	Max outside temperature: 19,4&#176;C at or., 2016.eko urtren 08a 04:01:21;
+	        Min inside temperature:  15,7&#176;C at ar., 2016.eko urtren 12a 18:37:53;
+	        Max inside temperature:  22,1&#176;C at or., 2016.eko urtren 01a 00:03:27;
+	        Min barometer:           992,0 mbar at ig., 2016.eko urtren 10a 22:30:00;
+	        Max barometer:           1034,0 mbar at lr., 2016.eko urtren 16a 10:35:00;
+            Max wind :               0,0 m/s from    N/A at or., 2016.eko urtren 01a 00:00:23;
+            Rain total for year:     118,9 mm
+         </description>
+         <pubDate>ar., 19 urt 2016 15:45:00 CET</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Year:                    2016<br/>
+	         Max Outside Temperature: 19,4&#176;C at or., 2016.eko urtren 08a 04:01:21<br/>
+	         Min Outside Temperature: 6,0&#176;C at az., 2016.eko urtren 13a 08:37:50<br/>
+	         Max Inside Temperature:  22,1&#176;C at or., 2016.eko urtren 01a 00:03:27<br/>
+	         Min Inside Temperature:  15,7&#176;C at ar., 2016.eko urtren 12a 18:37:53<br/>
+	         Min Barometer:           992,0 mbar at ig., 2016.eko urtren 10a 22:30:00<br/>
+	         Max Barometer:           1034,0 mbar at lr., 2016.eko urtren 16a 10:35:00<br/>
+             Max Wind :               0,0 m/s from    N/A at or., 2016.eko urtren 01a 00:00:23<br/>
+             Rain total for year:     118,9 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+   </channel>
+</rss>
+
